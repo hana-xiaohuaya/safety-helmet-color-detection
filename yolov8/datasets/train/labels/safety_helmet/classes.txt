@@ -1,0 +1,5 @@
+none
+red
+blue
+white
+yellow
